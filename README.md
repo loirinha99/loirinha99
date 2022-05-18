@@ -1,0 +1,5 @@
+- # sobre mim
+- ola,me chamo @loirinha99
+-meu e-mail de contato é leticia.henz@escola.pr.gov.br
+-eu estou interessado em aprender a programar novas linguagens
+- eu estou aprendendo a programar recentemente a linguagem de javaScript em scratch
